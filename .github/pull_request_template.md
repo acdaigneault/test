@@ -1,4 +1,5 @@
-Please go the the `Preview` tab and select the appropriate sub-template:
+Please, select the appropriate category of your pull request,
+go the `Preview` tab and select the template.
 
-* [Group 1](?expand=1&template=pull_request_template_1.md)
-* [Group 2](?expand=1&template=pull_request_template_2.md)
+* [New feature](?expand=1&template=pull_request_template_new-feature.md)
+* [Bug fix](?expand=1&template=pull_request_template_bug-fix.md)
