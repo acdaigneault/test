@@ -2,21 +2,8 @@
 
 ### Description
 
-<!-- Explain the content of the new feature
-       What are the motivations? 
-       How is it integrated to the current code? -->
-
-### Testing
-
-<!-- How has this been tested?
-       What are the new test(s) and what feature/parameter does it test?
-       Are there changes and/or impacts on current tests, why?
-       How did you ensure that the solution works?
-       How will you ensure that it will continue to work in the future? -->
-
-### Documentation
-
-<!-- Does this new feature have new simulation parameters? If so, describe them. -->
+<!-- Explain the content of this documentation
+       It is related to Lethe documentation (simulation parameters or theory guide) or in-code documentation? -->
 
 ### Miscellaneous (will be removed when merged)
 
@@ -32,9 +19,7 @@ for more information about the pull request process.
 Code related list:
 - [ ] All in-code documentation related to this PR is updated (Doxygen format)
 - [ ] Lethe documentation is updated
-- [ ] New feature has unit test(s) (preferred) or application test(s)
 - [ ] The branch has been rebased onto master
-- [ ] Changelog (CHANGELOG.md) is updated
 - [ ] Code is indented with indent-all and .prm files (examples and tests) with prm-indent
 
 Pull request related list:
